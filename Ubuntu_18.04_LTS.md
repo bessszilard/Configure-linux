@@ -10,3 +10,4 @@
 ## Install
 * VS Code
 * [Github Desktop](https://github.com/shiftkey/desktop/releases)
+  * I was not able to login, because the firewall was blocked it
