@@ -11,3 +11,7 @@
 * VS Code
 * [Github Desktop](https://github.com/shiftkey/desktop/releases)
   * I was not able to login, because the firewall was blocked it
+* Open arc menu with super key
+  * right click on the menu
+  * Arc Menu Settings
+  * Arc Menu Hotkey
