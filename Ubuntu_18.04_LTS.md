@@ -3,6 +3,8 @@
 * [30 Things to do After Installing Ubuntu 18.04 LTS (all-in-one video)](https://www.youtube.com/results?search_query=things+to+change+after+installing+ubuntu+18.04)
 * [Ubuntu 18.04 - Super + Number keys aren't working when “Dash to panel” is active](https://askubuntu.com/questions/1061811/utuntu-18-04-super-number-keys-arent-working-when-dash-to-panel-is-active)
 
+* Move save button (file dialog) on to the buttom:
+   * [Move GNOME file dialog buttons](https://askubuntu.com/questions/1031665/move-gnome-file-dialog-buttons)
 ## TODO
 * Switch alt + space to alt + shift to change the language layout
 * move save button on the bottom
