@@ -21,3 +21,6 @@
   * right click on the menu
   * Arc Menu Settings
   * Arc Menu Hotkey
+  
+  ## Fix
+  * [How to enable the Edit button in Shutter?](https://askubuntu.com/questions/1029085/how-to-enable-the-edit-button-in-shutter)
