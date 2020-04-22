@@ -25,3 +25,4 @@
 ## Fix
   * [How to enable the Edit button in Shutter?](https://askubuntu.com/questions/1029085/how-to-enable-the-edit-button-in-shutter)
   * [Reset notification panel](https://askubuntu.com/a/1117115) 
+  * Search only in the local folder (skip subfolders): [gsettings set org.gnome.nautilus.preferences recursive-search 'never'](https://superuser.com/a/1395223)
