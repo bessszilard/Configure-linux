@@ -24,7 +24,7 @@
   
 ## Fix
   * [How to enable the Edit button in Shutter?](https://askubuntu.com/questions/1029085/how-to-enable-the-edit-button-in-shutter)
-  * [Reset notification panel](https://askubuntu.com/a/1117115) 
+  * [Reset notification panel](https://askubuntu.com/a/1117115) ```(Alt+F2) gnome-shell --replace```
   * Search only in the local folder (skip subfolders): [gsettings set org.gnome.nautilus.preferences recursive-search 'never'](https://superuser.com/a/1395223)
   * [« Could not read the contents of '/media': Permission denied »](https://askubuntu.com/questions/1178148/could-not-read-the-contents-of-media-permission-denied)
     * Solution is not to use snaps.
