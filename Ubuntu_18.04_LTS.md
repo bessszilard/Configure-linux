@@ -28,3 +28,8 @@
   * Search only in the local folder (skip subfolders): [gsettings set org.gnome.nautilus.preferences recursive-search 'never'](https://superuser.com/a/1395223)
   * [« Could not read the contents of '/media': Permission denied »](https://askubuntu.com/questions/1178148/could-not-read-the-contents-of-media-permission-denied)
     * Solution is not to use snaps.
+  * [Prevent KWrite backup files](https://www.linuxquestions.org/questions/linux-newbie-8/how-to-prevent-backup-file-creation-kate-and-kwrite-940857/)
+    ```
+    Settings > Configure Kate > Editor Component > Open/Save > Advanced
+    Uncheck the box next to local files under Backup on Save
+   ```
