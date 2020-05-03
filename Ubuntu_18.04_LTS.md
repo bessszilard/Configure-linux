@@ -34,19 +34,5 @@
     Uncheck the box next to local files under Backup on Save
 ```
 
-### [X-mouse botton alternative to linux](https://www.linuxuprising.com/2019/11/how-to-bind-mouse-buttons-to-keyboard.html)
-```
-# set directly keycode (here control + f with my keyboard)
-#"xterm"
-#  c:41 + m:0x4
-
-# specify a mouse button
-"/usr/bin/xdotool key ctrl+v"
-b:8
-
-# specify a mouse button
-"/usr/bin/xdotool key ctrl+c"
-b:9
-```
-
+## [Remap mouse button](Remap-Mouse-buttons-to-copy-paste.md)
 
