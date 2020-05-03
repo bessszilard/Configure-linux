@@ -8,7 +8,7 @@
 * Easily switch between sound devices: [How can I easily switch audio output in Ubuntu 17.10 and later with GNOME?](https://askubuntu.com/questions/970323/how-can-i-easily-switch-audio-output-in-ubuntu-17-10-and-later-with-gnome)
 * [Nautilus not showing mounted drives in side bar](https://askubuntu.com/questions/1036773/nautilus-not-showing-mounted-drives-in-side-bar)
 * [How to snap a window to the top/bottom with GNOME?](https://superuser.com/a/1431887)
-   
+
 ## TODO
 * Switch alt + space to alt + shift to change the language layout
 * move save button on the bottom
@@ -29,7 +29,24 @@
   * [« Could not read the contents of '/media': Permission denied »](https://askubuntu.com/questions/1178148/could-not-read-the-contents-of-media-permission-denied)
     * Solution is not to use snaps.
   * [Prevent KWrite backup files](https://www.linuxquestions.org/questions/linux-newbie-8/how-to-prevent-backup-file-creation-kate-and-kwrite-940857/)
-    ```
+```
     Settings > Configure Kate > Editor Component > Open/Save > Advanced
     Uncheck the box next to local files under Backup on Save
-   ```
+```
+
+### [X-mouse botton alternative to linux](https://www.linuxuprising.com/2019/11/how-to-bind-mouse-buttons-to-keyboard.html)
+```
+# set directly keycode (here control + f with my keyboard)
+#"xterm"
+#  c:41 + m:0x4
+
+# specify a mouse button
+"/usr/bin/xdotool key ctrl+v"
+b:8
+
+# specify a mouse button
+"/usr/bin/xdotool key ctrl+c"
+b:9
+```
+
+
