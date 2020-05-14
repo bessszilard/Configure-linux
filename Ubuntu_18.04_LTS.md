@@ -8,10 +8,7 @@
 * Easily switch between sound devices: [How can I easily switch audio output in Ubuntu 17.10 and later with GNOME?](https://askubuntu.com/questions/970323/how-can-i-easily-switch-audio-output-in-ubuntu-17-10-and-later-with-gnome)
 * [Nautilus not showing mounted drives in side bar](https://askubuntu.com/questions/1036773/nautilus-not-showing-mounted-drives-in-side-bar)
 * [How to snap a window to the top/bottom with GNOME?](https://superuser.com/a/1431887)
-
-## TODO
-* Switch alt + space to alt + shift to change the language layout
-* move save button on the bottom
+* [Setting LTS 18.04 to High Performance mode](https://askubuntu.com/a/604870)
 
 ## Install
 * VS Code
