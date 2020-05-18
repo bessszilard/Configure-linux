@@ -11,7 +11,6 @@
 * [Setting LTS 18.04 to High Performance mode](https://askubuntu.com/a/604870)
 
 ## Install
-* VS Code
 * [Github Desktop](https://github.com/shiftkey/desktop/releases)
   * I was not able to login, because the firewall was blocked it
 * Open arc menu with super key
@@ -33,3 +32,5 @@
 
 ## [Remap mouse button](Remap-Mouse-buttons-to-copy-paste.md)
 
+## VS Code
+* [Visual Studio Code - Terminal Blank Screen](https://stackoverflow.com/questions/54092486/visual-studio-code-terminal-blank-screen)
