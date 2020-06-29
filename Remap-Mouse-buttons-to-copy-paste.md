@@ -26,7 +26,7 @@ Generate configuration file, and open it
 
 ```bash
 $ xbindkeys -d > ~/.xbindkeysrc
-$ gedit ~/..xbindkeysrc
+$ gedit ~/.xbindkeysrc
 ```
 
 ## Step 4: Modify configuration
@@ -39,10 +39,10 @@ Add copy paste command to the keys to bind it [2]. The comment shows where I put
 #  c:41 + m:0x4
 
 "xte 'keydown Control_L' 'key c' 'keyup Control_L'"
-     b:9
+	b:9
 
 "xte 'keydown Control_L' 'key v' 'keyup Control_L'"
-     b:8
+	b:8
 ```
 
 ## Step 5: Restart and run xbindkeys
