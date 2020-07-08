@@ -9,6 +9,8 @@
 * [Nautilus not showing mounted drives in side bar](https://askubuntu.com/questions/1036773/nautilus-not-showing-mounted-drives-in-side-bar)
 * [How to snap a window to the top/bottom with GNOME?](https://superuser.com/a/1431887)
 * [Setting LTS 18.04 to High Performance mode](https://askubuntu.com/a/604870)
+* [Minimize keyboard shortcut on ubuntu](https://askubuntu.com/questions/123223/what-is-the-keyboard-shortcut-to-minimise-a-window-to-launcher-in-unity)
+  * Keyboard shortcuts -> Hide Window
 
 ## Install
 * [Github Desktop](https://github.com/shiftkey/desktop/releases)
