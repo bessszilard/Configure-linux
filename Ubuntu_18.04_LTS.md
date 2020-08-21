@@ -2,9 +2,9 @@
 
 * [30 Things to do After Installing Ubuntu 18.04 LTS (all-in-one video)](https://www.youtube.com/results?search_query=things+to+change+after+installing+ubuntu+18.04)
 * [Ubuntu 18.04 - Super + Number keys aren't working when “Dash to panel” is active](https://askubuntu.com/questions/1061811/utuntu-18-04-super-number-keys-arent-working-when-dash-to-panel-is-active)
-
 * Move save button (file dialog) on to the buttom: [Move GNOME file dialog buttons](https://askubuntu.com/questions/1031665/move-gnome-file-dialog-buttons)
 * Change language layout with ALT+SHIFT: [18.04 ctrl+shift to change language](https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language)
+  * The best layout is: `102/QWERTY/dot/dead keys`
 * Easily switch between sound devices: [How can I easily switch audio output in Ubuntu 17.10 and later with GNOME?](https://askubuntu.com/questions/970323/how-can-i-easily-switch-audio-output-in-ubuntu-17-10-and-later-with-gnome)
 * [Nautilus not showing mounted drives in side bar](https://askubuntu.com/questions/1036773/nautilus-not-showing-mounted-drives-in-side-bar)
 * [How to snap a window to the top/bottom with GNOME?](https://superuser.com/a/1431887)
