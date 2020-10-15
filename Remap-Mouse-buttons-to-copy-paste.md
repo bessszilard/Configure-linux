@@ -52,6 +52,10 @@ $ killall xbindkeys
 $ xbindkeys
 ```
 
+# Increase scroll speed
+
+http://www.nicknorton.net/?q=node/10
+
 ## Notes:
 I try to do this `xdotool` as well based on this [2] post. The solution did it's job, but if I pressed the mouse button, it froze the operating system for 1 sec. 
 
