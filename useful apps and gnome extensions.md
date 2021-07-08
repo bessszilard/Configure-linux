@@ -1,6 +1,7 @@
 # Useful app which are not or not up to date in Pop 
 
 1. Github desktop https://github.com/shiftkey/desktop/releases
+2. Draw io https://github.com/jgraph/drawio-desktop/releases
 
 # Gnome extensions
 
