@@ -2,6 +2,10 @@
 
 1. Github desktop https://github.com/shiftkey/desktop/releases
 2. Draw io https://github.com/jgraph/drawio-desktop/releases
+3. [GPU stats](https://github.com/wookayin/gpustat)
+```
+gpustat -i
+```
 
 # Gnome extensions
 
